@@ -1,0 +1,244 @@
+@import url("https://web.archive.org/web/20241007115311cs_/https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&amp;display=swap");
+
+@font-face {
+  font-family: font-primary;
+  src: url(https://web.archive.org/web/20241007115311im_/https://ramravaliya.in/asset/font/BELRINER-LXXL0.OTF);
+}
+
+
+
+/* css Reseat */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+/* custom class  */
+.btn_primary {
+  background: black;
+  border-radius: 100px;
+  font-size: 16px;
+  padding: 10px 22px;
+  color: white;
+  border: none;
+  text-decoration: none;
+}
+
+.btn_primary:hover {
+  background: #109343;
+  color: white;
+  transition: all 0.2s ease-in-out;
+}
+
+.icon_btn {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+
+}
+
+
+
+/* navbar start */
+
+.navbar {
+  padding: 30px 0;
+}
+
+/* navbar end */
+
+/* hero section start  */
+#hero {
+  padding: 80px 0 140px 0;
+}
+
+#hero h2 {
+  font-size: 100px;
+  font-family: 'font-primary';
+}
+
+#hero h3 {
+  font-size: 48px;
+  font-family: 'font-primary';
+}
+
+/* hero section end */
+
+/* about us start  */
+#about h3 {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+#about h4 {
+  font-size: 24px;
+  font-weight: normal;
+  text-decoration: dashed;
+}
+
+#about p {
+  font-size: 18px;
+  line-height: 40px;
+}
+
+.social_icon {
+  margin: 30px 0 0 0;
+}
+
+.social_icon a {
+  margin: 0 20px 0 0;
+}
+
+/* about us end */
+
+/* Portfolio start  */
+#portfolio {
+  margin-top: 100px;
+  border-top: 1px solid gray;
+  padding-top: 100px;
+
+}
+
+.section_heading {
+  font-size: 64px;
+  font-family: 'font-primary';
+  margin-bottom: 64px;
+  color: black;
+}
+
+#portfolio h3 {
+  font-size: 22px;
+  font-weight: 500;
+  margin: 20px 0 0 0;
+}
+
+#portfolio img {
+  margin-top: 40px;
+}
+
+/* Portfolio end */
+/* skill section start  */
+#skill {
+  margin: 100px 0 0 0;
+  padding: 100px 0;
+  background: black;
+}
+
+#skill .section_heading {
+  color: white;
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+#skill .box {
+  padding: 20px 40px;
+  border: 1px solid white;
+  background: black;
+  border-radius: 20px;
+  margin: 40px;
+}
+
+#skill .box:hover {
+  background-color: white;
+  transition: all 0.2s linear;
+
+}
+
+#skill .box:hover.box h4 {
+  color: black;
+  transition: all 0.2s linear;
+}
+
+#skill .box h4 {
+  font-size: 28px;
+  color: white;
+  margin: 0;
+}
+
+/* skill section end */
+
+/* foter start  */
+#footer {
+  padding: 100px 0;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#footer .line {
+  height: 150px;
+  width: 1px;
+  margin-bottom: 80px;
+  background: black;
+}
+
+#footer .btn_primary {
+  font-size: 22px;
+  padding: 20px 32px;
+}
+
+.copyright {
+  padding: 30px 0;
+  border-top: 1px solid black;
+}
+
+.copyright h2 {
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+
+}
+
+.copyright h2 span {
+  font-weight: 600;
+}
+
+.copyright .social_icon {
+  margin-top: 0;
+}
+
+
+/* foter end */
+
+
+/* portfolio page  */
+.portfolio_page #portfolio {
+  border: none;
+  padding-top: 0 !important;
+}
+
+.linked_in:hover.linked_in svg path {
+  fill: #0A66C2;
+}
+
+.be:hover.be svg path {
+  fill: #003ECB;
+}
+/*
+     FILE ARCHIVED ON 11:53:11 Oct 07, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:44:07 Sep 10, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.761
+  exclusion.robots: 0.033
+  exclusion.robots.policy: 0.015
+  esindex: 0.015
+  cdx.remote: 6.797
+  LoadShardBlock: 89.903 (3)
+  PetaboxLoader3.datanode: 106.473 (4)
+  load_resource: 201.119
+  PetaboxLoader3.resolve: 152.07
+*/

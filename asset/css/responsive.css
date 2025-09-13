@@ -1,0 +1,194 @@
+@media (max-width:992px) {
+    #hero {
+        padding: 64px 0;
+    }
+
+    #hero svg {
+        width: 100%;
+    }
+
+    #about p {
+        margin-top: 40px;
+    }
+
+    #portfolio {
+        margin-top: 80px;
+        padding-top: 80px;
+    }
+
+    #skill {
+        margin-top: 80px;
+        padding: 80px 0;
+    }
+
+    #footer {
+        padding: 80px 0;
+    }
+
+    .section_heading {
+        font-size: 48px;
+        margin-bottom: 64px;
+    }
+
+    #portfolio .section_heading {
+        margin-bottom: 30px;
+    }
+
+    #skill .box {
+        padding: 16px 26px;
+        border: 1px solid white;
+        background: black;
+        border-radius: 20px;
+        margin: 20px;
+    }
+
+    #skill .box h4 {
+        font-size: 22px;
+    }
+
+    #skill .section_heading {
+        margin-bottom: 64px;
+    }
+
+    #footer .line {
+        margin-bottom: 64px;
+    }
+}
+
+@media(max-width:768px) {
+    #portfolio h3 {
+        font-size: 18px;
+    }
+
+    .section_heading {
+        font-size: 32px;
+    }
+
+    #portfolio {
+        margin-top: 64px;
+        padding-top: 64px;
+    }
+
+    #skill {
+        margin-top: 64px;
+        padding: 64px 0;
+    }
+
+    #footer {
+        padding: 64px 0;
+    }
+
+    .copyright {
+        flex-direction: column !important;
+        text-align: center;
+    }
+
+    .copyright .social_icon {
+        margin-top: 40px;
+    }
+
+    #skill .box h4 {
+        font-size: 18px;
+    }
+
+    #skill .box {
+        padding: 16px 22px;
+        margin: 15px;
+    }
+
+    #portfolio .section_heading {
+        margin-bottom: 0;
+    }
+}
+
+@media(max-width:500px) {
+    #skill .box {
+        padding: 14px 18px;
+        margin: 10px;
+    }
+
+    #skill .box h4 {
+        font-size: 12px;
+    }
+
+    .section_heading {
+        font-size: 24px;
+    }
+
+    #portfolio {
+        padding-top: 40px;
+        margin-top: 40px;
+
+    }
+
+    #skill {
+        padding-top: 40px;
+        margin-top: 40px;
+
+    }
+
+    #skill .section_heading {
+        margin-bottom: 40px;
+    }
+
+    #footer {
+        padding: 40px 0;
+    }
+
+    #about h4 {
+        font-size: 20px;
+    }
+
+    #about p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    #hero {
+        padding: 40px 0;
+    }
+
+}
+
+@media (max-width:400px) {
+    .navbar .btn_primary {
+        font-size: 12px;
+        padding: 10px 14px;
+    }
+}
+
+@media (max-width:360px) {
+    /* .navbar .btn_primary {
+        font-size: 11px;
+        padding: 9px 12px;
+    }
+
+    .navbar .btn_primary svg {
+        width: 12px;
+    }
+
+    .navbar .logo {
+        width: 48%;
+    } */
+
+}
+/*
+     FILE ARCHIVED ON 11:53:10 Oct 07, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:44:07 Sep 10, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.681
+  exclusion.robots: 0.023
+  exclusion.robots.policy: 0.01
+  esindex: 0.014
+  cdx.remote: 27.103
+  LoadShardBlock: 90.15 (3)
+  PetaboxLoader3.datanode: 66.983 (4)
+  PetaboxLoader3.resolve: 556.268 (2)
+  load_resource: 560.516
+*/
